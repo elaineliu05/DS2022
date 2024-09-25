@@ -1,4 +1,4 @@
-# DS2022
+# DS2022 Systems
 
 Course material for **DS2022 Systems I: Introduction to Computing**
 
